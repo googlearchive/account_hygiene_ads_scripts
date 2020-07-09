@@ -25,7 +25,7 @@
  *
  */
 
-var SPREADSHEET_URL = 'https://docs.google.com/spreadsheets/d/1c5qr63E6T5FKHNLLuHuTOi_fiqj5IKzV6gI-RFoLqss/edit';
+var SPREADSHEET_URL = 'YOUR_SPREADSHEET_URL';
 
 var CONFIG = {
   // Uncomment below to include an account label filter
